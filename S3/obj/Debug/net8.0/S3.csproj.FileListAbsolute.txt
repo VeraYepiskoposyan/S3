@@ -1,0 +1,14 @@
+C:\projects\S3\bin\Debug\net8.0\S3.exe
+C:\projects\S3\bin\Debug\net8.0\S3.deps.json
+C:\projects\S3\bin\Debug\net8.0\S3.runtimeconfig.json
+C:\projects\S3\bin\Debug\net8.0\S3.dll
+C:\projects\S3\bin\Debug\net8.0\S3.pdb
+C:\projects\S3\obj\Debug\net8.0\S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\S3\obj\Debug\net8.0\S3.AssemblyInfoInputs.cache
+C:\projects\S3\obj\Debug\net8.0\S3.AssemblyInfo.cs
+C:\projects\S3\obj\Debug\net8.0\S3.csproj.CoreCompileInputs.cache
+C:\projects\S3\obj\Debug\net8.0\S3.dll
+C:\projects\S3\obj\Debug\net8.0\refint\S3.dll
+C:\projects\S3\obj\Debug\net8.0\S3.pdb
+C:\projects\S3\obj\Debug\net8.0\S3.genruntimeconfig.cache
+C:\projects\S3\obj\Debug\net8.0\ref\S3.dll
